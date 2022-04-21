@@ -8,3 +8,5 @@
 Gaioricardo/Gaioricardo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Olá sou o gaio mais novo a que no pi seja bem vindo. 
+A meu mundo rsrsrsrs
